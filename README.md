@@ -35,7 +35,7 @@
 <h2>💻 I'm Currently working on</h2>
 
 - DevOps mentorship program by Dzenan Dzevlan 
-- Starting with AWS 
+
 
 
 ## Use To Code
