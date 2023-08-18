@@ -1,4 +1,4 @@
-![Lakshmanan Meiyappan Banner Image](assets/banner2.png)
+![Aleksandra Ljuboje Image](assets/banner2.png)
 <!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 <!-- Intro  -->
@@ -7,6 +7,7 @@
                 <b><a target="_blank" href="https://www.linkedin.com/in/aleksandra-ljuboje-023864235/?originalSubdomain=ba">Aleksandra </a></b>
         </samp>
 </h3>
+
 
 
 <p align="center"> 
@@ -22,6 +23,7 @@
 
 <p align="center">
 
+
  <a href="https://www.linkedin.com/in/aleksandra-ljuboje-023864235/?originalSubdomain=ba" target="_blank">
  <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 
@@ -32,6 +34,13 @@
  
 </p>
 <br />
+<p align="center"> 
+<h3>Member of AWS Community Builder in Networking C&D Category</h3>
+
+![AWS Badge](assets/communityBadge.png)
+
+</p>
+
 <h2>💻 I'm Currently working on</h2>
 
 - DevOps mentorship program by Dzenan Dzevlan 
