@@ -37,7 +37,7 @@
 <p align="center"> 
 <h3>Member of AWS Community Builder in Networking C&D Category</h3>
 
-![AWS Badge](assets/communityBadge.png)
+![AWS Badge](assets/Community%20Builder%20LinkedIn%201400px%20ALT.png)
 
 </p>
 
